@@ -1,4 +1,4 @@
-# PROJECT 4 — STM32F401CCU6 Toggle LED Every Button Press
+STM32F401CCU6 Toggle LED Every Button Press
 
 ## Final Outcome
 Each button press toggles the LED state.
