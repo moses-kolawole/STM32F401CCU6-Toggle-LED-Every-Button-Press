@@ -1,2 +1,32 @@
-# STM32F401CCU6-Toggle-LED-Every-Button-Press
-This project demonstrates how to toggle an LED using a push button on the STM32F401CCU6 microcontroller.  Unlike the previous project where the LED remained ON only while the button was pressed, this project changes the LED state on every valid button press:  First Press → LED ON Second Press → LED OFF Third Press → LED ON Fourth Press → LED OFF
+# PROJECT 4 — STM32F401CCU6 Toggle LED Every Button Press
+
+## Final Outcome
+Each button press toggles the LED state.
+
+## Learning
+- Edge Detection
+- Software Debouncing
+- State Variables
+
+## Project Code
+[Click here for the project code](code)
+
+## Project images 
+
+![Check here to see the project image](images/IMG_20260720_140823_309.jpg)
+
+## Components
+- STM32F401CCU6 Black Pill
+- LED
+- Push Button
+- 220Ω Resistor
+- 10kΩ Resistor
+
+## Project Demonstration video
+
+[Click here to check out the Demo video](https://youtube.com/shorts/dkmK5bPAbeY?feature=share)
+
+## Pin Connection
+PA0 → Button  
+PA6 → LED
+
